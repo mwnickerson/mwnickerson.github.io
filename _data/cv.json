@@ -1,0 +1,265 @@
+{
+  "basics": {
+    "name": "Matthew Nickerson",
+    "label": "Cybersecurity Professional |\nCompTIA Security+ \n\n",
+    "picture": "",
+    "email": "mwnickerson@gmail.com",
+    "phone": "(305)482-3863",
+    "website": "https://www.mwnickerson.com",
+    "summary": "Cybersecurity professional\nSecurity+ Certification\nCurrently preparing for my CEH in Early September\nI love to learn and am always working to grow myself as a Cybersecurity professional.\nActive Participant on HackerOne, HackTheBox, and TryHackMe.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+
+  },
+  "work": [
+    {
+      "company": "Comcast",
+      "endDate": "2021-05-31",
+      "highlights": [],
+      "position": "Community Account Representative",
+      "startDate": "2015-07-31",
+      "summary": "- Oversaw a portfolio of 81 Multiple Dwelling Units (properties) throughout Miami-Dade and Monroe County.
+      \n -Educated brand ambassadors on promoting new XFINITY products to potential customers within their property.
+      \n -Built a network of brand ambassadors on the property level increasing line of business growth through networking events and incentive programs.
+      \n -Used proprietary software to analyze service level data and determine Technician workflow
+      \n -Prevented wide spread outages and service interruptions by using proprietary software to predict and combat outages
+      \n -Analyzed consumer data trends using models created in Access and Excel building custom marketing plans driving growth in each property.
+      \n -Provided critical-level customer service to VIP clients ensuring a positive customer experience and building brand loyalty.
+      \n -Scheduled and executed 10+ sales events per month in the field with a $500 a month budget. \n -Managed a team of Sales and Marketing specialists at events consistently overdriving monthly and quarterly sales goals. \n -Oversaw the execution of a VIP property contract and fiber rollout over the course of 18 months. \n -Selected for special role handling VIP properties throughout Monroe, Miami Dade, Broward, and Palm Beach County.",
+      "website": "https://www.linkedin.com/company/comcast/"
+    },
+    {
+      "company": "Pac Sun",
+      "endDate": "2015-08-31",
+      "highlights": [],
+      "position": "Stock Manager",
+      "startDate": "2014-10-31",
+      "summary": "- Received, processed, and organized new shipments of merchandise. Designed and constructed in store displays and collateral.\n- Exceeded weekly sales goals set by manager and district manager.\n- Created stockroom organization system saving 5 hours per week.\n- Learned POS system filling in for absentee coworkers.",
+      "website": "https://www.linkedin.com/company/pac-sun/"
+    },
+    {
+      "company": "University of Miami Athletic Department",
+      "endDate": "2014-05-31",
+      "highlights": [],
+      "position": "Marketing Intern",
+      "startDate": "2013-08-31",
+      "summary": "- Assisted VIP guests at University of Miami football and basketball games. \n- Maintained a roster of attendees of donor events for donation solicitation.\n- Collaborated in organizing and executing two successful donor parties for high level athletic department donors.",
+      "website": ""
+    },
+    {
+      "company": "Emphasys Software",
+      "endDate": "2013-08-31",
+      "highlights": [],
+      "position": "Intern",
+      "startDate": "2013-05-31",
+      "summary": "- Created prospective company projection models used for evaluating a potential business for acquisition saving over 60 hours. \n- Developed a mail merge sending out custom emails to potential and existing clients saving  30+ hours over the course of two months\n- Published and updated blog posts weekly helping drive SEO for the company website generating over 1000 unique page views per week.\n- Organized and executed a Hackathon in the local Miami Tech Community driving company recruitment and developing community.\n- Measured client satisfaction successfully by creating a client survey and driving participation rate to its highest level.",
+      "website": "https://www.linkedin.com/company/emphasys-software/"
+    },
+    {
+      "company": "Maplewood Swim Club",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "position": "Diving Coach",
+      "startDate": "2011-06-30",
+      "summary": "Manage kids ranging from ages 8-18 and taught them new dives\nCreated and ran a fund raiser for the swim team\nCreated a working schedule for the diving team parents\nOrganized a league wide clinic for learning to judge\nWrote detailed emails weekly to team in order to keep them updated",
+      "website": ""
+    },
+    {
+      "company": "McNeil Consumer Healthcare",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "position": "Marketing and Branding Intern",
+      "startDate": "2012-06-30",
+      "summary": "- Researched and presented on the brand opinion of multiple SKUs in each of the global regions.\n- Analyzed and presented on the competitive environment in each of the global regions. \n- Collected and presented global sales data for analysis saving the finance department 65 hours over 3 months.\n- Led Transition to a SharePoint for the department archiving past branding campaigns saving the marketing department 15 hours a month.",
+      "website": "https://www.linkedin.com/company/mcneil-consumer-healthcare/"
+    },
+    {
+      "company": "DAA, WWAA, LV",
+      "endDate": "2012-12-31",
+      "highlights": [],
+      "position": "Umpire",
+      "startDate": "2006-12-31",
+      "summary": "Enforce the rules of baseball",
+      "website": ""
+    },
+    {
+      "company": "Commonwealth Golf Club",
+      "endDate": "2011-08-31",
+      "highlights": [],
+      "position": "Caddy",
+      "startDate": "2006-05-31",
+      "summary": "Dealt with customer relations\nFollowed orders from customers and Caddy master\nCalmed down angry customers\nHelped with landscaping\nRose from a C level caddy to and A caddy",
+      "website": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "La Salle University",
+      "area": "International Marketing and Computer Science",
+      "startDate": "2010-12-31",
+      "endDate": "2012-12-31",
+
+    },
+    {
+      "institution": "University of Miami",
+      "area": "Economics",
+      "studyType": "Bachelor of Arts (B.A.)",
+      "startDate": "2012-12-31",
+      "endDate": "2014-12-31",
+    },
+    {
+      "institution": "Central Bucks High School South",
+      "studyType": "Diploma",
+      "startDate": "2007-12-31",
+      "endDate": "2010-12-31",
+    },
+    {
+      "institution": "Miami Dade College",
+      "area": "Information Technology",
+      "startDate": "2021-06-30",
+    }
+  ],
+  "awards": [
+    {
+      "title": "Annual ELITE Winner",
+      "date": "2020-05-31",
+      "awarder": "Comcast Corporation",
+      "summary": "Top 1% of all Community Account Representatives in the State of Florida"
+    },
+    {
+      "title": "Annual ELITE Winner",
+      "date": "2018-05-31",
+      "awarder": "Comcast Corporation",
+      "summary": "Top 1% of all Community Account Representatives in the State of Florida"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Splunk",
+    },
+    {
+      "name": "Ethical Hacking",
+    },
+    {
+      "name": "Python (Programming Language)",
+    },
+    {
+      "name": "Social Media",
+    },
+    {
+      "name": "Fundraising",
+    },
+    {
+      "name": "Public Speaking",
+    },
+    {
+      "name": "Powershell",
+    },
+    {
+      "name": "Kali Linux",
+    },
+    {
+      "name": "Jekyll",
+    },
+    {
+      "name": "Linux",
+    },
+    {
+      "name": "SQL",
+    },
+    {
+      "name": "Corporate Communications",
+    },
+    {
+      "name": "Customer Service",
+    },
+    {
+      "name": "Google Analytics",
+    },
+    {
+      "name": "MITRE Att&ck Framework",
+    },
+    {
+      "name": "Metasploit",
+    },
+    {
+      "name": "WordPress",
+    },
+    {
+      "name": "Team Leadership",
+    },
+    {
+      "name": "Maltego",
+    },
+    {
+      "name": "Salesforce Sales Cloud",
+    },
+    {
+      "name": "Network Security",
+    },
+    {
+      "name": "OBS",
+    },
+    {
+      "name": "Microsoft Office",
+    },
+    {
+      "name": "OWASP Top Ten",
+    },
+    {
+      "name": "Time Management",
+    },
+    {
+      "name": "Tutoring",
+    },
+    {
+      "name": "Coaching",
+    },
+    {
+      "name": "Salesforce Marketing Cloud",
+    },
+    {
+      "name": "Burp Suite",
+    },
+    {
+      "name": "Self-learning",
+    },
+    {
+      "name": "Social Media Marketing",
+    },
+    {
+      "name": "Strategic Communications",
+    },
+    {
+      "name": "Bash Scipting",
+    },
+    {
+      "name": "Cybersecurity",
+    },
+    {
+      "name": "OS X",
+    }
+  ],
+  "Languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+    "name": "3D-Printing"},
+    {"name": "Baseball"},
+    {"name": "Golf"},
+    {"name": "Lock-picking"
+  }
+  ],
+  "references": [
+    {
+      "name": "Mike Leneghan",
+      "reference": "Matt has been coaching my daughters for two years now in diving, each has shown great strides. Strong communication skills + ethics +patience are three more attributes Matt has  important in dealing with  the parents of many children."
+    }
+  ]
+}
