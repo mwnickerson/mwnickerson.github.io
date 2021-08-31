@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Straight Outta Layer 1
+logo: /assets/profile-picture/blinky.png
 email: mwnickerson@gmail.com
 description: A website to document my progression and growth as an Information Security professional. A place for my resume, projects, and insights on InfoSec.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -39,12 +40,19 @@ plugins:
   gems:
 
 #Google Analytics
-google_analytics: G-S537ZK4TQF
+google_analytics: G-FVPJ2JB5P8
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
 
+# Author metadata
+author:
+  name: Matthew Nickerson
+  twitter: mwnsec
+  picture: assets/profile-picture/aus.jpg
+
+# Jekyll Environment
 
 # Exclude from processing.
 # The following items will not be processed, by default.
