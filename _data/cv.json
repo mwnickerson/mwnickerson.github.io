@@ -13,7 +13,20 @@
     },
 
   },
-  "work": [
+  "Experience": [
+    {
+      "company": "IT Managed Service Provider",
+      "Position": "Help Desk Technician",
+      "Start Date": "10-2021",
+      "summary": "-Network mapping and administration
+      \n -Active Directory Administration and configuration
+      \n -VPN configuration and administration for remote employees
+      \n -Office365 Configuration and Administration
+      \n -Firewall Monitoring and Configuration
+      \n -Email monitoring, configuration, and administration
+      \n -Monthly WebApp penetration testing on client’s WordPress Sites
+      \n -Vulnerability Detection and GRC to conform to various Industry Standards",
+    }
     {
       "company": "Comcast",
       "endDate": "2021-05-31",
