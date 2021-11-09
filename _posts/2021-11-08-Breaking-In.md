@@ -19,21 +19,21 @@ One of the things I see echoed throughout Cyber Security social media, is that y
 
 I have been there for about a month now, and I can firmly say I have been able to start to pave my own way in security. I have been given the lead for multiple clients to handle their security operations. I am running vulnerability scans, testing web apps, and fielding and stopping phishing campaigns. Although its not the job that was advertised, nor was it the job I was brought on to do, I have supplemented my daily work with what interests me, and I am bringing a value to the company, and most importantly keeping our clients safe from the ever growing threats that lurk on the internet.
 
-In the coming months, I plan on rolling out some more education for our clients, including their online presence. In my role, I see certain things correlate with an increase of phishing attempts, including more targeted phishing attempts that can trick even the more savvy employees. My reasoning for getting into cyber security was to protect others and make a difference in a field that many view as foreign, and intimidating. In my current role, I feel as though I am just starting to  get my feet wet in cyber, however I can already see that I am startng to make a difference.
+In the coming months, I plan on rolling out some more education for our clients, including their online presence. In my role, I see certain things correlate with an increase of phishing attempts, including more targeted phishing attempts that can trick even the more savvy employees. My reasoning for getting into cyber security was to protect others and make a difference in a field that many view as foreign, and intimidating. In my current role, I feel as though I am just starting to  get my feet wet in cyber, however I can already see that I am starting to make a difference.
 
 ### My advice to aspiring cyber security professionals
 
 I really don't feel like I should be in the position to be giving advice on breaking into the cyber security field, as I am not quite into it yet, however I feel as though I am starting to step foot into the battlefield of cyber space. However, I will give what I believe is working for me.
 
-- Go out and find your local MSP, I can guarentee there is a small MSP somewhere nearby that needs your help. We are living in a time where everyone is hiring, I am sure you can find someone.
+- Go out and find your local MSP, I can guarantee there is a small MSP somewhere nearby that needs your help. We are living in a time where everyone is hiring, I am sure you can find someone.
 
 - Often times these MSPs are small shops that focus on small businesses, security is an afterthought to them. Be a trojan horse of security, come offering your knowledge of computer systems and when you get there start working in security.
 
-- As time goes on, start to work on the security field you want to be a part of. Want to be a SOC analyst, ask to start logging and integrate a SIEM. Want to do pen testing or red teaming, offer vuln scanning and mangement. Want to do GRC and policy, start creating and implementing policies to help harden your clients.
+- As time goes on, start to work on the security field you want to be a part of. Want to be a SOC analyst, ask to start logging and integrate a SIEM. Want to do pen testing or red teaming, offer vuln scanning and management. Want to do GRC and policy, start creating and implementing policies to help harden your clients.
 
 Cyber security is a young industry, however IT is slightly older. That means we have a lot of people who re not security minded. We can help change this and harden the Information Technology industry as a whole, while gaining the experience to take on the roles we want within the industry.
 
 
 ### My Final thoughts on Help desk
 
-When I was first starting my role, I saw a tweet about how Help Desk i the front lines of Cyber Security. I can't remember who said it, but at the time I rolled my eyes. However with each passing day, I realize that Help desk is the people in the trenches on the cyber battlefield. We deal with the phsihing emails, the social engineering attempts, the triaged incidents, the AV scans. Cyber is a team sport and teams need someone to sometimes do the dirty, unglamourous work. Think about it, before a general or admiral became who they are they had to start as a private, or a 2lt, or a ensign. Cyber is a war and we have to earn our stripes.
+When I was first starting my role, I saw a tweet about how Help Desk i the front lines of Cyber Security. I can't remember who said it, but at the time I rolled my eyes. However with each passing day, I realize that Help desk is the people in the trenches on the cyber battlefield. We deal with the phishing emails, the social engineering attempts, the triaged incidents, the AV scans. Cyber is a team sport and teams need someone to sometimes do the dirty, unglamourous work. Think about it, before a general or admiral became who they are they had to start as a private, or a 2lt, or a ensign. Cyber is a war and we have to earn our stripes.
