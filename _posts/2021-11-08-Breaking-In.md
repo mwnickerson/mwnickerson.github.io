@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Breaking In"
-date:   2021-10-05 23:00
+date:   2021-11-08 23:00
 categories: certifications, Starting work, blog
 ---
 ## Taking my next steps into Information Security
