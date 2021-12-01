@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Matthew Nickerson",
-    "label": "Cybersecurity Professional |\nCompTIA Security+ \n\n",
+    "label": "Cybersecurity Professional |\neJPT| CEH| Security+  \n\n",
     "picture": "",
     "email": "mwnickerson@gmail.com",
     "phone": "(305)482-3863",
     "website": "https://www.mwnickerson.com",
-    "summary": "Cybersecurity professional\nSecurity+ Certification\nCurrently preparing for my CEH in Early September\nI love to learn and am always working to grow myself as a Cybersecurity professional.\nActive Participant on HackerOne, HackTheBox, and TryHackMe.",
+    "summary": "Cybersecurity professional\nSecurity+, eJPT, CEH\nCurrently preparing for my OSCP\nI love to learn and am always working to grow myself as a Cybersecurity professional.\nActive Participant on HackerOne, HackTheBox, and TryHackMe.",
     "location": {
       "countryCode": "US",
       "address": "United States"
